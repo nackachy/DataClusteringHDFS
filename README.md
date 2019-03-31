@@ -64,11 +64,11 @@ This is how the result would look like.
 
 ***Data with Clusters***
 
-![Data Clustered](https://github.com/nackachy/DataClustering/blob/master/dataWithClusters.PNG)
+![Data Clustered](https://github.com/nackachy/DataClusteringHDFS/blob/master/dataWithClusters.PNG)
 
 ***Data Plot***
 
-![Data Plot](https://github.com/nackachy/DataClustering/blob/master/Map.PNG)
+![Data Plot](https://github.com/nackachy/DataClusteringHDFS/blob/master/Map.png)
 
 
 
