@@ -43,7 +43,7 @@ map_leaflet = leaflet(d) %>% addTiles() %>%
     opacity = 1)%>%
     addControl("Clusterd Data based on Location", position = "topleft")
 
-#saving Map plot
+#saving Map plot in html
 saveWidget(map_leaflet, file="Map.html")
 
 
