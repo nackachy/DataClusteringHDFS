@@ -1,7 +1,5 @@
 # DataClusteringHDFS
 
-# DataClustering 
-
 ## Description
 
 The purpose of this project is to cluster Brisbane_CityBike based on longitude and latitude. 
