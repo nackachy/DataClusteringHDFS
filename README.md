@@ -27,17 +27,17 @@ The purpose of this project is to cluster Brisbane_CityBike based on longitude a
 
 Before executing the code, you have to change the parameters existing in application.properties.
 
-    hdfsPath = C:/Users/Lenovo/Desktop/emotion/DataClusteringHDFS
-    inputClusterNumber = 4
-    master = local
-    appName = DataClustering
-    nameOfColumnCluster = Clusters
-    titleOfDataPlot = Data Plot
-    stepsOfAxis = 0.00001
-    heightOfPlot = 400.0
-    widthOfPlot = 600.0
-    outPutData = C:/Users/Lenovo/Desktop/emotion/DataClusteringHDFS/output
-    testLocalData = "src/main/data/Brisbane_CityBike.json"
+    hdfsPath = 
+    inputClusterNumber = 
+    master = 
+    appName = 
+    nameOfColumnCluster = 
+    titleOfDataPlot = 
+    stepsOfAxis = 
+    heightOfPlot = 
+    widthOfPlot = 
+    outPutData = 
+    testLocalData = 
 
 * **hdfsPath** path of the project.
 * **inputClusterNumber** is the number of clusters chosen to cluster the data.
