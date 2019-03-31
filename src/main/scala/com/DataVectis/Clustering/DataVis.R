@@ -6,7 +6,7 @@ library(leaflet)
 library(leaflet.extras)
 library(htmlwidgets)
 library(htmltools)
-
+library(webshot)
 
 #reading clustered data saved by the pproject
 pathToClusteredData = "clusters.csv"
@@ -46,4 +46,6 @@ map_leaflet = leaflet(d) %>% addTiles() %>%
 #saving Map plot in html
 saveWidget(map_leaflet, file="Map.html")
 
+#saving Map in pnj
+webshot("Map.html", file = "Map.png", cliprect = "viewport")
 
