@@ -68,7 +68,7 @@ This is how the result would look like.
 
 ***Data Plot***
 
-![Data Plot](https://github.com/nackachy/DataClustering/blob/master/clusters.PNG)
+![Data Plot](https://github.com/nackachy/DataClusteringHDFS/blob/master/Map.html)
 
 
 
