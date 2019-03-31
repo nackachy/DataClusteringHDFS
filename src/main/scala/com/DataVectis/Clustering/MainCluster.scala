@@ -5,7 +5,6 @@ import org.apache.spark.sql.{SaveMode, SparkSession}
 import java.util.regex.Pattern
 import scala.util.control.Breaks.{break, breakable}
 
-
 object MainCluster {
 
   def main(args: Array[String]) {
@@ -92,8 +91,7 @@ object MainCluster {
         }
         i = i+1
       }
-
-
     }
+
   }
 }

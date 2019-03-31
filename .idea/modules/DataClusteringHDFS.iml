@@ -14,6 +14,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="sbt: aopalliance:aopalliance:1.0:jar" level="project" />
+    <orderEntry type="library" name="sbt: junit:junit:3.8.1:jar" level="project" />
     <orderEntry type="module-library">
       <library name="sbt: unmanaged-sources-and-docs">
         <CLASSES />
@@ -152,7 +153,6 @@
     <orderEntry type="library" name="sbt: net.jpountz.lz4:lz4:1.3.0:jar" level="project" />
     <orderEntry type="library" name="sbt: net.java.dev.jets3t:jets3t:0.7.1:jar" level="project" />
     <orderEntry type="library" name="sbt: log4j:log4j:1.2.17:jar" level="project" />
-    <orderEntry type="library" name="sbt: junit:junit:3.8.1:jar" level="project" />
     <orderEntry type="library" name="sbt: javax.xml.stream:stax-api:1.0-2:jar" level="project" />
     <orderEntry type="library" name="sbt: javax.xml.bind:jaxb-api:2.2.2:jar" level="project" />
     <orderEntry type="library" name="sbt: javax.ws.rs:javax.ws.rs-api:2.0.1:jar" level="project" />
@@ -217,5 +217,7 @@
     <orderEntry type="library" name="sbt: com.clearspring.analytics:stream:2.7.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.chuusai:shapeless_2.11:2.3.2:jar" level="project" />
     <orderEntry type="library" name="sbt: asm:asm:3.1:jar" level="project" />
+    <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="library" name="R Skeletons" level="application" />
   </component>
 </module>
