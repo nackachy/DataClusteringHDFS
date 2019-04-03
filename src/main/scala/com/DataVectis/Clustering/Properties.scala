@@ -7,7 +7,7 @@ class prop {
 
   def getProp (propertyName: String) : String  = {
     val properties = new Properties()
-    properties.load(new FileInputStream("src/main/ressources/application.properties"))
+    properties.load(new FileInputStream("/home/chiheb/DataClusteringHDFS/src/main/ressources/application.properties"))
     val property = properties.getProperty(propertyName)
     property.toString()
 
